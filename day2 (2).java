@@ -49,5 +49,13 @@ class Main {
        
        // System.out.println(name);
 
-   
+   TASK 3:
+
+class Main {
+    public static void main(String[] args) {
+     String str ="I love Zoho";
+     String str1[] =str.split(" ");
+     System.out.println(str1[2]);  
+    }
+}
 
